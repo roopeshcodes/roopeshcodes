@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Roopesh 👋
 
-<!--
-**roopeshcodes/roopeshcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building clean, fast, and interactive web applications.  
+I work with JavaScript, TypeScript, React, Next.js, and Node.js.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,html,css,tailwind,git,github" />
+</p>
+
+---
+
+## 🛠 What I Do
+- Build modern, responsive UIs  
+- Create React + Next.js applications  
+- Focus on performance, accessibility, and clean code  
+- Experiment with UI/UX ideas and frontend tooling  
+
+---
+
+## 🌐 Connect
+- Portfolio: **roopeshcodes.com**  
+- YouTube: **youtube.com/@RoopeshCodes**  
+- LinkedIn: **linkedin.com/in/rsroopesh**
